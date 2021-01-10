@@ -1,0 +1,12 @@
+name: dataquest-tracker
+title: dataquest-tracker
+username:
+account: stubbs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3457663
+bundleId: 4077250
+url: https://stubbs.shinyapps.io/dataquest-tracker/
+when: 1610240493.19789
+asMultiple: FALSE
+asStatic: FALSE
