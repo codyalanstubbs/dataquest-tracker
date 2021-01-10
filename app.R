@@ -27,6 +27,7 @@ shinyApp(
         textInput("path", "Career Path", ""),
         textInput("step", "Step Number", ""),
         textInput("course", "Course Number", ""),
+        textInput("mission", "Mission Name", ""),
         textInput("duration", "Duration (Minutes)", ""),
         textInput("notes", "Notes:", ""),
         actionButton("submit", "Submit"),
@@ -43,6 +44,7 @@ shinyApp(
                            path = input$path,
                            step = input$step,
                            course = input$course,
+                           mission = input$mission,
                            duration = input$duration,
                            notes = input$notes)
             

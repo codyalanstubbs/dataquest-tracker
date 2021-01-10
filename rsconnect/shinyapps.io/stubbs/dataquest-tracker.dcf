@@ -5,8 +5,9 @@ account: stubbs
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3457663
-bundleId: 4077250
+bundleId: 4078426
 url: https://stubbs.shinyapps.io/dataquest-tracker/
-when: 1610240493.19789
+when: 1610276943.17321
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: mission-takeaways/mission-290-boolean-indexing-with-numpy-takeaways.pdf
